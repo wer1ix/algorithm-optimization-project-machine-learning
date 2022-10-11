@@ -1,6 +1,6 @@
 <!-- hide -->
 
-# Algorithm Optimization Project for Machine Learning
+# Proyecto de Optimización de Algoritmos para Machine Learning
 
 <!-- endhide -->
 
