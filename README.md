@@ -1,6 +1,7 @@
 <!-- hide -->
 # Algorithm Optimization Project for Machine Learning
 <!-- endhide -->
+
 Inside this repository, you will find a file called `./notebook/problems.ipynb` with the exercises you need to finish to complete it.
 
 ## 🌱  How to start this project
@@ -15,6 +16,6 @@ The easiest way to start working on this project is by using Gitpod:
 
 Once you are finished solving the exercises make sure to commit your changes, push to your repository fork and go to 4Geeks.com to upload the repository link.
 
-# Solutions
+## Solutions
 
 We also incorporated the solutions files `./notebook/*-solution[n].ipynb` that we strongly suggest you only use if you are stuck for more than 30min or if you have already finished and want to compare it with your approach.
