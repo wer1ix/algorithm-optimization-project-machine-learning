@@ -2,9 +2,9 @@
 # Algorithm optimization in Python - Step by step guide
 <!--endhide-->
 
-- Complete the problems using calculus, algebra and Python.
+- Optimize Python code.
 
-## 🌱  How to start this project.
+## 🌱 How to start this project
 
 Follow the instructions below:
 
@@ -20,4 +20,4 @@ Once you have finished solving the exercises, be sure to commit your changes, pu
 
 Once you start working on the project, you will see a `./notebook/problems.ipynb` file containing a list of exercises. Complete each of them, one by one.
 
-> NOTA: Solution: https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/blob/main/notebook/solutions.ipynb
+> Note: We also incorporated a `./notebook/solutions.ipynb` file that we strongly suggest you only use if you are stuck for more than 30 min or if you have already finished and want to compare it with your approach.
