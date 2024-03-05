@@ -1,6 +1,6 @@
 {
-	"title" : "algorithm-optimization-project-machine-learning",
-	"slug" : "Algorithm Optimization Project for Machine Learning",
+	"title" : "Algorithm Optimization Project for Machine Learning",
+	"slug" : "algorithm-optimization-project-machine-learning",
 	"preview": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/blob/main/preview.jpeg?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/tree/main/notebook",
 	"status": "published",
@@ -10,5 +10,5 @@
 	"syntax": "python",
 	"duration" : 2,
     "projectType": "project",
-	"description" : "Learn the basics on how to optimize or better build algorithms in python for Machine Learning"
+	"description" : "Learn the basics on how to optimize or better build algorithms in Python for Machine Learning"
 }
