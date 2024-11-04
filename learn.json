@@ -5,7 +5,7 @@
 	"solution": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/tree/main/notebook/solutions.ipynb",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["big-o", "python", "algorithms"],
+	"technologies": ["big-o", "python", "algorithms", "matplotlib", "scipy", "machine learning", "data science"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
