@@ -1,14 +1,18 @@
 {
-	"title" : "Algorithm Optimization Project for Machine Learning",
+	"title" : {
+		"us": "Algorithm Optimization Project for Machine Learning",
+		"es": "Proyecto de Optimización de Algoritmos para Aprendizaje Automático"
+	},
 	"slug" : "algorithm-optimization-project-machine-learning",
 	"preview": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/blob/main/preview.jpeg?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/algorithm-optimization-project-machine-learning/tree/main/notebook/solutions.ipynb",
-	"status": "published",
-	"translations": ["us"],
 	"technologies": ["big-o", "python", "algorithms", "matplotlib", "scipy", "machine learning", "data science"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
-    "projectType": "project",
-	"description" : "Learn the basics on how to optimize or better build algorithms in Python for Machine Learning"
+    	"projectType": "project",
+	"description" : {
+		"us": "Learn the basics on how to optimize or better build algorithms in Python for Machine Learning",
+		"es": "Aprende lo básico sobre cómo optimizar o construir mejor algoritmos en Python para Aprendizaje Automático."
+	}
 }
